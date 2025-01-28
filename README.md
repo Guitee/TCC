@@ -9,6 +9,12 @@ O repositório apresenta:
 - Um projeto **back-end** utilizando a biblioteca [JSON Server](https://www.npmjs.com/package/json-server).
 - O **artigo completo do trabalho** na pasta `artigo`.
 
+---
+
+## 📂 Estrutura do Projeto
+
+TCC/ ├── app/ │ ├── app-log/ # Código do front-end │ ├── api-server/ # Back-end utilizando JSON Server ├── artigo/ # Artigo acadêmico
+
 ### 🔧 Node.js
 
 A versão do Node.js utilizada no projeto foi **20.13.0**.  
@@ -20,8 +26,11 @@ Se você estiver utilizando uma versão inferior, recomendamos instalar o [nvm (
    ```bash
    nvm install 20.13.0
 
+## 🚀 Como Configurar o Projeto
+
+### 🖥️ Front-End (app-log)
+
+Para buildar e rodar o front-end, siga os passos descritos no arquivo `README.md` presente na pasta `app-log`.
+
 Sinta-se à vontade para usar este projeto como inspiração ou ponto de partida para seus estudos ou futuros TCCs! 🚀
 
----
-
-## 📂 Estrutura do Projeto
