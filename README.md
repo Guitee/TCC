@@ -8,6 +8,8 @@ O repositório apresenta:
 - Um projeto **front-end** na pasta `app-log`.
 - Um projeto **back-end** utilizando a biblioteca [JSON Server](https://www.npmjs.com/package/json-server).
 - O **artigo completo do trabalho** na pasta `artigo`.
+- Exemplos de logs na pasta `logs`, utilizados durante o estudo.
+- Artigos e links utilizados como apoio no projeto, disponíveis na pasta `referencias`.
 
 ---
 
